@@ -1,4 +1,4 @@
-# R Gupta Perioperative Cardiac Risk-Estimator
+# R Gupta Perioperative Cardiac Risk Estimator
 
 This is a simple R implementation of the Gupta's et al. Perioperative Cardiac Risk Estimator. See the original article for reference:
 
