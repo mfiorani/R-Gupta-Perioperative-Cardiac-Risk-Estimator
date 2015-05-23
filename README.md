@@ -13,7 +13,6 @@ The usage of the function is quite straight-forward:
 > Ex.5. Sixty-five-year-old man, ASA class 4, partially dependent, with elevated creatinine, undergoing peripheral vascular surgery:
 > **5.75%**
 
-	:::R
 	MICA(65,4,2,1,15)
 	> 5.84
 
